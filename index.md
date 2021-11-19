@@ -1,8 +1,17 @@
 # Yasuto Watanabe
-Earth System Scientist
+Earth System Scientist, Ph.D. Student in the University of Tokyo
+
+
 <img src="https://park.itc.u-tokyo.ac.jp/tajika/wp-content/uploads/2019/11/755ef69214b535b327f034fa411839b6.png" width="300"> 
+
+
+# Favorites
+Music (traphouse-jazz, hiphop, R&B, post-classical, soul, dnb, math rock, alternative, etc.)
+
+Movies, Musicals, Gaming, Coding, Piano Playing
+
 # Publication
-1. **Watanabe, Y.**, Tajika, E. Atmospheric oxygenation of the early earth and earth-like planets driven by competition between land and seafloor weathering. Earth Planets Space 73, 188 (2021). [Link](https://doi.org/10.1186/s40623-021-01527-9)
+**Watanabe, Y.**, Tajika, E. Atmospheric oxygenation of the early earth and earth-like planets driven by competition between land and seafloor weathering. Earth Planets Space 73, 188 (2021). [Link](https://doi.org/10.1186/s40623-021-01527-9)
 
 # Presentation
 ## International Meetings
