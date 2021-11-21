@@ -8,7 +8,7 @@ Earth System Scientist, Ph.D. Student in the University of Tokyo
 # Favorites
 Music (traphouse-jazz, hiphop, R&B, post-classical, soul, dnb, math rock, alternative, etc.)
 
-Movies, Musicals, Gaming, Coding, Piano Playing
+Movies, Musicals, Photography, Gaming, Coding, Piano Playing
 
 # Publication
 **Watanabe, Y.**, Tajika, E. Atmospheric oxygenation of the early earth and earth-like planets driven by competition between land and seafloor weathering. Earth Planets Space 73, 188 (2021). [Link](https://doi.org/10.1186/s40623-021-01527-9)
